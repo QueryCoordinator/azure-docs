@@ -1139,7 +1139,7 @@ You can control this tracing capability at the application level by using the fo
 
    After you open the **$SAP_RFC_TRACE_DIRECTORY** folder, you'll find a file named **dev_nco_rfc.log**, one or multiple files named **dev_nco_rfcNNNN.log**, and one or multiple files named **dev_nco_rfcNNNN.trc** where **NNNN** is a thread identifier.
 
-1. To view the contant in a log or trace file, select the **Edit** button next to a file.
+1. To view the content in a log or trace file, select the **Edit** button next to a file.
 
    > [!NOTE]
    >
