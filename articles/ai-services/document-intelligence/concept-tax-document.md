@@ -143,7 +143,7 @@ The following are the fields extracted from a1098-E tax form in the JSON output 
 | IncludesAmountForNextPeriod |String| Does payment received relate to an academic period beginning in the next tax year (box 7)| true |
 | IsAtLeastHalfTimeStudent |String| Was the student at least a half-time student during any academic period in this tax year (box 8)| true |
 | IsGraduateStudent |String| Was the student a graduate student (box 9)| true |
-| InsuranceContractReimbursements | Number | Total number and amounts of reimbursements or refunds of qualified tuition and related expanses (box 10)| 1234567.89 |
+| InsuranceContractReimbursements | Number | Total number and amounts of reimbursements or refunds of qualified tuition and related expenses (box 10)| 1234567.89 |
 
 ## Field extraction 1098-E
 
