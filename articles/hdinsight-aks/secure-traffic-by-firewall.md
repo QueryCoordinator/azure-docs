@@ -17,7 +17,7 @@ The following diagram illustrates the example used in this article to simulate a
 
 :::image type="content" source="./media/secure-traffic-by-firewall/network-flow.png" alt-text="Diagram showing the network flow." lightbox="./media/secure-traffic-by-firewall/network-flow.png":::
 
-The example demonstrated in this article is using **Azure Could Shell**.
+The example demonstrated in this article is using **Azure Cloud Shell**.
 
 ## Define the variables
 
